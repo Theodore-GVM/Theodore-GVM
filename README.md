@@ -1,5 +1,30 @@
 # Hi there 👋 I'm Theo, a penultimate year MSci Natural Scientist
 
-### I am currently studying to become a Master of Science at Durham University, graduating in summer 2027.
+
+### I am studying to become a Master of Science at Durham University, graduating in summer 2027.
+> MSci Natural Sciences: Computer Science and Mathematics - Year 3 of 4.
+
+### I am currently working on Reaction-Diffusion simulation on arbitrary geometries. 
+
+## Contents:
+This page contains extensive information on my skills, background and experience for interested persons.
+1. [My Technologies 💻](#my-technology-stack-hover-over-for-names)
+2. [My University Degree 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
+3. [Career Breakdown 👷‍♀️](#my-experiences-)
+4. [Prior Education 📚](#prior-education-)
+
+# My University Degree 🎓 - Ongoing!
+
+I study Mathematics & Computer Science at Durham University under the Natural Sciences program. 
+> A Natural Sciences degree allows you to persue whichever modules you choose, from whichever departments you choose, therby allowing for much greater academic freedom than a 'regular' degree.
+> It is a 'choose-your-own-adventure'-style degree, letting you build a multidisciplinary base of knowledge across your academic curiosities! Each year I have taken a roughly
+> equal split of symbiotic maths and compsci modules that now allows me to persue a more mathematically complex Master's level Dissertation/Project using skills from both subjects.
+
+
+
+I graduated as a Master in Science with a First Class Honours degree (83/100) in June 2022.
+
+> Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
+
 
 
