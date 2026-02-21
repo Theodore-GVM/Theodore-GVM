@@ -42,7 +42,8 @@ While I am still a 3rd year student, I will outline the modules I intend to take
 * Parallel Scientific Computing (20 credits)
   > HPC benchmarking for Durham University's _Hamilton_ HPC facilty.
   > Multi-core N-Body Simulation
-  >
+  >![NBodyDemo-4096-bodies](https://github.com/user-attachments/assets/fdb1fd75-732e-43cf-a8a1-035b04dd5ec5)
+
 
 https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8
 
