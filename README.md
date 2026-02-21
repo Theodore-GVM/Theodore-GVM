@@ -22,8 +22,7 @@ I study Mathematics & Computer Science at Durham University under the Natural Sc
 
 
 
-I graduated as a Master in Science with a First Class Honours degree (83/100) in June 2022.
-
+I am due to graduate as a Master of Science in June 2027.
 > Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
 
 
