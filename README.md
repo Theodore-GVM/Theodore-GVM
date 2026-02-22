@@ -26,7 +26,8 @@ I am due to graduate as a Master of Science in June 2027.
 > Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
 
 ## 4th Year
-While I am still a 3rd year student, I will outline the modules I intend to take in my final year.
+<details><summary>While I am still a 3rd year student, here is an outline of my inteded final year.</summary>
+  
 ### Computer Science: (80 credits)
 * Advanced Project (60 credits)
   > This is my Master's level project on Reaction-Diffusion on heterogeneous media, including growing domains.
@@ -36,6 +37,7 @@ While I am still a 3rd year student, I will outline the modules I intend to take
   > I want more examined practical experience in this area - I am excited to explore the coursework in OpenGL.
 ### Mathematics: (40 credits)
 > This will likely be a combination of applied statistics modules (Uncertainty Quantification, High-Dimensional Statistics, Nonparametric Statistics, Advanced Topics in Statistics) and Advanced Mathematical Biology.
+</details>
 
 ## 3rd Year
 ### Computer Science: (60 credits)
