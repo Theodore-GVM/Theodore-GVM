@@ -42,25 +42,31 @@ While I am still a 3rd year student, I will outline the modules I intend to take
 * Parallel Scientific Computing (20 credits)
   > * HPC benchmarking for Durham University's _Hamilton_ HPC facilty.
   > * Multi-core N-Body Simulation -- parallelised over 128 cores using OpenMP
-
+  
   > ![NBodyDemo-4096-bodies](https://github.com/user-attachments/assets/fdb1fd75-732e-43cf-a8a1-035b04dd5ec5)
+  > <details><summary>See video</summary>https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8</details>
 
-<details><summary>https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8</summary></details>
-
+  > * MPI & GPU computing: developed GPU kernels using CUDA, combined them with MPI for distributed-memory parallelism, and evaluated performance and scalability on the Durham University NCC cluster
  
-
 * Project Preparation (20 credits)
   >
 * Natural Computing Algorithms (10 credits)
-
+  > * Immunocomputing -- Implemented variable shape V-detector for negative selection on spatial data [81%]
+  > <img width="200" height="200" alt="Screenshot 2026-02-22 161117" src="https://github.com/user-attachments/assets/ebc5d974-625d-496e-a473-a828aee3ecb9" />
+  >
+  > * Metaheuristic Optimisation Algorithms -- Optimising continuous problems [74%] and discretisation [76%]
 * Bioinformatics (10 credits)
+  > * Sequence Alignment with BLAST and FASTA
+  > * Hidden Markov Models
+  > * Phylogeny
 
 ### Mathematics: (60 credits)
 * Partial Differential Equations (20 credits)
-
+  > * My favourite module with the dept of mathematics so far! We have explored methods of characteristics and energy, conservation laws, shocks, and entropy.
 * Mathematical Biology (20 credits)
-
+  > * Linear stability analysis, population models, Turing analysis. Provides an essential background for my RD project.
 * Operations Research (20 credits)
+  > * Linear Programming, Reinforcement Learning, Markov Decision Processes.
 
 ## 2nd Year
 ### Computer Science: (60 credits)
