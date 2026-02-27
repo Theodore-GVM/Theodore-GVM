@@ -2,18 +2,7 @@
 
 ### I am studying to become a Master of Science at Durham University, graduating in summer 2027.
 > MSci Natural Sciences: Computer Science and Mathematics - Year 3 of 4.
-
-### I am currently working on Reaction-Diffusion simulation on arbitrary geometries. 
-
-## Contents:
-This page contains extensive information on my skills, background and experience for interested persons.
-1. [My Technologies 💻](#my-technologies-)
-2. [My University Degree 🎓 / Module Breakdown 👩‍💻](#my-university-degree----ongoing)
-3. [Career Breakdown 👷‍♀️](#my-experiences-)
-4. [Prior Education 📚](#prior-education-)
-
-# My Technologies 💻
-
+#### I am currently working on Reaction-Diffusion simulation on arbitrary geometries. 
 
 # My University Degree 🎓 - Ongoing!
 
