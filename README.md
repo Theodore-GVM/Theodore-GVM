@@ -53,7 +53,7 @@ I am due to graduate as a Master of Science in June 2027.
 
 ### Mathematics: (60 credits)
 * Partial Differential Equations (20 credits)
-  > * My favourite module with the dept of mathematics so far! We have explored methods of characteristics and energy, conservation laws, shocks, and entropy.
+  > * My favourite module with the dept of mathematics so far! We have explored elliptic, parabolic, and hyperbolic PDEs and learnt methods of characteristics and energy, conservation laws, shocks, and entropy.
 * Mathematical Biology (20 credits)
   > * Linear stability analysis, population models, Turing analysis. Provides an essential background for my RD project.
 * Operations Research (20 credits)
@@ -62,10 +62,19 @@ I am due to graduate as a Master of Science in June 2027.
 ## 2nd Year
 ### Computer Science: (60 credits)
 * Artificial Intelligence (20 credits)
+  > * Machine Learning
+  > * AI Optimisation
+  > * Ethics & Bias in AI
 
 * Programming Paradigms (20 credits)
+  > * System Progaramming -- using C/C++
+  > * Functional Programming -- using Haskell
+  > * Object-Oriented Programming -- using Java
 
 * Data Science (20 credits)
+  > * Data cleaning and analysis
+  > * Image Processing
+  > * Visualisation
 
 ### Mathematics: (60 credits)
 * Analysis (20 credits)
