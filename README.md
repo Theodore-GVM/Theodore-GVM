@@ -21,7 +21,7 @@ I am due to graduate as a Master of Science in June 2027.
 * Advanced Project (60 credits)
   > This is my Master's level project on Reaction-Diffusion on heterogeneous media, including growing domains.
 * Adavanced Parallel Scientific Computing (10 credits)
-  > Having thoroughly enjoyed the 3rd year Parallel Scientific Computing module, I intent to take its advanced successor to extend my skills in numerical algorithms, HPC and GPU computing
+  > Having thoroughly enjoyed the 3rd year Parallel Scientific Computing module, I intent to take its advanced successor to extend my skills in numerical algorithms, HPC and GPU computing.
 * Advanced Computer Graphics & Visualisation (10 credits)
   > I want more examined practical experience in this area - I am excited to explore the coursework in OpenGL.
 ### Mathematics: (40 credits)
@@ -32,7 +32,7 @@ I am due to graduate as a Master of Science in June 2027.
 ### Computer Science: (60 credits)
 * Parallel Scientific Computing (20 credits)
   > * HPC benchmarking for Durham University's _Hamilton_ HPC facilty.
-  > * Multi-core N-Body Simulation -- parallelised over 128 cores using OpenMP
+  > * Multi-core N-Body Simulation -- parallelised over 128 cores using C++ and OpenMP.
   
   > ![NBodyDemo-4096-bodies](https://github.com/user-attachments/assets/fdb1fd75-732e-43cf-a8a1-035b04dd5ec5)
   > <details><summary>See video</summary>https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8</details>
