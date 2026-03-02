@@ -37,7 +37,7 @@ I am due to graduate as a Master of Science in June 2027.
   > ![NBodyDemo-4096-bodies](https://github.com/user-attachments/assets/fdb1fd75-732e-43cf-a8a1-035b04dd5ec5)
   > <details><summary>See video</summary>https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8</details>
 
-  > * MPI & GPU computing: developed GPU kernels using CUDA, combined them with MPI for distributed-memory parallelism, and evaluated performance and scalability on the Durham University NCC cluster
+  > * MPI & GPU computing: developed GPU kernels using CUDA, combined them with MPI for distributed-memory parallelism, and evaluated performance and scalability on the Durham University NCC cluster.
  
 * Project Preparation (20 credits)
   >
