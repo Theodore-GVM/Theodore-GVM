@@ -32,7 +32,7 @@ I am due to graduate as a Master of Science in June 2027.
 ### Computer Science: (60 credits)
 * Parallel Scientific Computing (20 credits)
   > * HPC benchmarking for Durham University's _Hamilton_ HPC facilty.
-  > * Multi-core N-Body Simulation -- parallelised over 128 cores using C++ and OpenMP.
+  > * Multi-core N-Body Simulation -- parallelised over 128 cores using C++ and OpenMP. [84%]
   
   > ![NBodyDemo-4096-bodies](https://github.com/user-attachments/assets/fdb1fd75-732e-43cf-a8a1-035b04dd5ec5)
   > <details><summary>See video</summary>https://github.com/user-attachments/assets/992bc486-5d8d-4773-b012-5070e917d6d8</details>
