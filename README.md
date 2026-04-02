@@ -13,7 +13,7 @@ I study Mathematics & Computer Science at Durham University under the Natural Sc
 
 I am due to graduate as a Master of Science in June 2027.
 > Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
-https://visualpde.com/sim/?mini=Wl2E5Wgg
+
 ## 4th Year
 <details><summary>While I am still a 3rd year student, here is an outline of my inteded final year.</summary>
 
