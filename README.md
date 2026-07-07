@@ -67,7 +67,7 @@ I am due to graduate as a Master of Science in June 2027.
   > * Ethics & Bias in AI
 
 * Programming Paradigms (20 credits)
-  > * System Progaramming -- using C/C++
+  > * Systems Progaramming -- using C/C++
   > * Functional Programming -- using Haskell
   > * Object-Oriented Programming -- using Java
 
